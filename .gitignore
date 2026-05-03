@@ -17,4 +17,3 @@ astro-dev.err.log
 
 # astro
 .astro/
-package-lock.json
